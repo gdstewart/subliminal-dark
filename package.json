@@ -1,0 +1,25 @@
+{
+    "name": "subliminal-dark",
+    "displayName": "Subliminal Dark",
+    "description": "Variant of the Subliminal theme with a darker background",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Subliminal Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Subliminal Dark-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gdstewart/subliminal-dark.git"
+    }
+}
